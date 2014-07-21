@@ -1,5 +1,5 @@
 {
-  "name": "Twitter Follower Responder",
+  "name": "twitter-follower-responder",
   "version": "0.0.0",
   "description": "Reply to those who follow you",
   "main": "app.js",
