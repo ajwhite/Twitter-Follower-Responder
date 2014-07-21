@@ -1,0 +1,18 @@
+{
+  "name": "Twitter Follower Responder",
+  "version": "0.0.0",
+  "description": "Reply to those who follow you",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atticus White",
+  "license": "ISC",
+  "respository": "git@github.com:ajwhite/Twitter-Follower-Responder.git",
+  "dependencies": {
+    "user-stream": "0.0.7",
+    "node-twitter-api": "^1.2.3",
+    "npm": "^1.4.21",
+    "install": "^0.1.7"
+  }
+}
